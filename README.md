@@ -5,7 +5,10 @@ SE MEJORO EL CONTROLADOR DE LIBROS PARA MANEJAR EXCEPCIONES CUANDO NO SE ENCUENT
 
 ![Imagen de WhatsApp 2024-06-03 a las 16 43 07_cb5d92f7](https://github.com/Angiemarise/Libros-Update/assets/147665525/4d98507d-5751-47ae-aa26-2bf712fd165f)
 
-REST CONTROLLER
+LIBRO CONTROLLER
+GET MAPPING 
+Es el cual nos permite simplificar la construcción de la app
+
 
 ![Imagen de WhatsApp 2024-06-03 a las 16 45 08_5fb87bd0](https://github.com/Angiemarise/Libros-Update/assets/147665525/dd6364d3-e9e4-4141-966e-f63fff0e0e25)
 
